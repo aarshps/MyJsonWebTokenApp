@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MyJsonWebTokenApp/obj
+/MyJsonWebTokenApp/bin/Debug/netcoreapp2.0
